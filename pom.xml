@@ -108,7 +108,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>hihi</groupId>
+      <groupId>&example;</groupId>
       <artifactId>hihi<!--<script>alert(1)</script>--></artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
