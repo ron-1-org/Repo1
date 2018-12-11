@@ -1,5 +1,5 @@
 <!--?xml version="1.0" ?-->
-<!DOCTYPE replace [<!ENTITY example "hibernate-core"> ]>
+<!DOCTYPE replace [<!ENTITY example "junit"> ]>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -95,8 +95,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>&example;</groupId>
+      <artifactId>&example;</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
