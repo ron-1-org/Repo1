@@ -102,7 +102,7 @@
     </dependency>
     <dependency>
       <groupId>org.hibernate</groupId>
-      <artifactId>hibernate-core</artifactId>
+      <artifactId>&example;</artifactId>
       <version>3.6.3.Final</version>
     </dependency>
     <dependency>
